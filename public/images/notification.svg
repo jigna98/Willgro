@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_4203" data-name="Group 4203" transform="translate(-1082 -504)">
+    <g id="Group_4198" data-name="Group 4198" transform="translate(7)">
+      <rect id="Rectangle_1455" data-name="Rectangle 1455" width="45" height="45" rx="22.5" transform="translate(1075 504)" fill="black"/>
+    </g>
+    <g id="Group_4201" data-name="Group 4201" transform="translate(1023.502 513.416)">
+      <g id="Group_4200" data-name="Group 4200" transform="translate(71.153 2.137)">
+        <g id="Group_4199" data-name="Group 4199">
+          <path id="Path_8869" data-name="Path 8869" d="M73.716,17.037V12.73a7.5,7.5,0,0,1,1.826-4.989A7.246,7.246,0,0,1,81,5.282h0a7.245,7.245,0,0,1,5.459,2.461,7.5,7.5,0,0,1,1.824,4.987v4.3a5.005,5.005,0,0,1,2.563,3.707h0a2.7,2.7,0,0,1-2.693,2.693h-14.3a2.694,2.694,0,0,1-2.693-2.693h0a4.412,4.412,0,0,1,2.562-3.689l.12-.018H88.281" transform="translate(-71.153 -5.282)" fill="black" stroke="#000" stroke-miterlimit="10" stroke-width="2" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_8870" data-name="Path 8870" d="M99.415,49.56" transform="translate(-16.828 -29.509)" fill="black" stroke="#000" stroke-miterlimit="10" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_8871" data-name="Path 8871" d="M89.546,50.129a3.2,3.2,0,1,0,6.288,0" transform="translate(-11.692 -30.309)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
